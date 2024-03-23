@@ -1,0 +1,230 @@
+[
+    {
+        "iconUrl": "https://actionviewphotography.com/static/extend/light/favicon.ico\n",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/HindiProviders",
+        "fileSize": 10326,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hindi Provider"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 5,
+        "internalName": "actionviewphotography",
+        "description": "NSFW Search Videos",
+        "url": "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/actionviewphotography.cs3",
+        "name": "actionviewphotography"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/HindiProviders",
+        "fileSize": 27418,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "LikDev-256"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon"
+        ],
+        "version": 12,
+        "internalName": "AllMovieLandProvider",
+        "description": "Indian MultiLanguage Provider (Mostly Hindi)",
+        "url": "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/AllMovieLandProvider.cs3",
+        "name": "AllMovieLandProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bolly2tolly.desi/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/HindiProviders",
+        "fileSize": 19997,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "darkdemon, likdev256"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Bolly2TollyProvider",
+        "url": "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/Bolly2TollyProvider.cs3",
+        "name": "Bolly2TollyProvider"
+    },
+    {
+        "iconUrl": "https://www.freepnglogos.com/uploads/tv-png/tv-png-box-television-set-cable-screen-icon-31.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/HindiProviders",
+        "fileSize": 11510,
+        "status": 1,
+        "authors": [
+            "HindiProviders,King,Lag,Rowdy"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 15,
+        "internalName": "IndianTVProvider",
+        "description": "Indian TV",
+        "url": "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/IndianTVProvider.cs3",
+        "name": "IndianTVProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/HindiProviders",
+        "fileSize": 9639,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProviders"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "InternetChicks",
+        "description": "InternetChicks",
+        "url": "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/InternetChicks.cs3",
+        "name": "InternetChicks"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/HindiProviders",
+        "fileSize": 9778,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProvider"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 15,
+        "internalName": "ixiporn",
+        "description": "IXI Porn",
+        "url": "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/ixiporn.cs3",
+        "name": "ixiporn"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/HindiProviders",
+        "fileSize": 14997,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProviders"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "Javdoe",
+        "description": "Javdoe",
+        "url": "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/Javdoe.cs3",
+        "name": "Javdoe"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/ShowFlixProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/HindiProviders",
+        "fileSize": 30342,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "LikDev-256"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "ShowFlixProvider",
+        "description": "HD Provider for all Indian Languages",
+        "url": "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/ShowFlixProvider.cs3",
+        "name": "ShowFlixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/HindiProviders",
+        "fileSize": 9772,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "HindiProvider"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "spankbang",
+        "description": "Spankbang",
+        "url": "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/spankbang.cs3",
+        "name": "spankbang"
+    },
+    {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/JioTV_logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/HindiProviders",
+        "fileSize": 14557,
+        "status": 1,
+        "authors": [
+            "HindiProvider"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 2,
+        "internalName": "TVProvider",
+        "description": "Indian Live TV",
+        "url": "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/TVProvider.cs3",
+        "name": "TVProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/HindiProviders",
+        "fileSize": 9659,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Coxju"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "UncutMaza",
+        "description": "We Provide Huge Colocation of Hindi Porn (Uncut) Web Series",
+        "url": "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/UncutMaza.cs3",
+        "name": "UncutMaza"
+    },
+    {
+        "iconUrl": "https://upmovies.net/themes/movies/images/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/HindiProviders",
+        "fileSize": 22483,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Hindi Provider"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "UpMovies",
+        "description": "HD Provider for all Indian Languages",
+        "url": "https://raw.githubusercontent.com/phisher98/HindiProviders/builds/UpMovies.cs3",
+        "name": "UpMovies"
+    }
+]
